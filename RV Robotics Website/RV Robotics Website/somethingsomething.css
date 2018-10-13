@@ -1,0 +1,49 @@
+body {
+margin: 0;
+font-family: "Times New Roman", Times, serif;
+background-color: silver;
+}
+
+.topnav {
+overflow: hidden;
+background-color: #022955;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 6.25%;
+text-decoration: none;
+font-size: 17px;
+width: 12.5%;
+}
+
+.topnav a:hover {
+background-color: lightblue;
+color: black;
+}
+
+.topnav a.active {
+background-color: dodgerblue;
+color: white;
+}
+
+.HomeText {
+overflow: hidden;
+background-color: #022955;
+}
+
+.HomeText b {
+color: #f2f2f2;
+text-align: center;
+}
+.mainText {
+text-indent:50px;
+}
+.textindentsmall{
+    padding-left:50px;
+}
+.textindentmedium{
+    padding-left:75px;
+}
